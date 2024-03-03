@@ -83,6 +83,6 @@ Deleting alarms: The deleteAlarm function is called when the delete button for a
 
 Overall, this code is a simple but well-written web application that allows a user to set alarms for specific times. It uses the browser's localStorage to persist the set alarms even if the page is refreshed.
 
-ALRAM -CLOCK:- https://aalarmclock.netlify.app/
+ALRAM -CLOCK:- https://xrudraa.github.io/ALARM-CLOCK/
 
 
