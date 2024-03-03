@@ -82,7 +82,7 @@ Fetching alarms: The fetchAlarm function fetches the set alarms from the localSt
 Deleting alarms: The deleteAlarm function is called when the delete button for an alarm is clicked. It removes the alarm from the HTML element that displays all set alarms and from the localStorage.
 
 Overall, this code is a simple but well-written web application that allows a user to set alarms for specific times. It uses the browser's localStorage to persist the set alarms even if the page is refreshed.
-<HR>
+
 ALRAM -CLOCK:- https://aalarmclock.netlify.app/
 
 
